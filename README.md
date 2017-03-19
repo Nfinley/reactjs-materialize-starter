@@ -5,6 +5,7 @@ Packages includes:
 * [Create React App](https://github.com/facebookincubator/create-react-app)
 * [React-Materialize](https://github.com/react-materialize/react-materialize)
 * [React-Router](https://github.com/reacttraining/react-router)
+* [Styled-Components](https://github.com/styled-components/styled-components): Easily usable CSS components
 
 
 To run:
