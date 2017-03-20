@@ -4,7 +4,7 @@ This is a basic starter kit using create-react-app, materialize (with react), an
 Packages includes: 
 * [Create React App](https://github.com/facebookincubator/create-react-app)
 * [React-Material-UI](https://github.com/callemall/material-ui)
-* [React-Router](https://github.com/reacttraining/react-router): Important [Docs](https://reacttraining.com/react-router/web/example/basic) about recent update
+* [React-Router](https://github.com/reacttraining/react-router): Important [Docs](https://reacttraining.com/react-router/web/example/basic) about version 4
 * [Styled-Components](https://github.com/styled-components/styled-components): Easily usable CSS components
 
 
